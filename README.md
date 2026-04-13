@@ -1,2 +1,20 @@
-# customer-churn-analysis
-Analyzed customer subscription data to identify churn patterns using SQL and Python. Built Power BI dashboard to highlight high-risk customers and key factors affecting retention. Dataset represents anonymized enterprise customer data.
+# Customer Churn Analysis
+
+Tools Used:
+SQL
+Python (Pandas)
+Power BI
+
+Project Objective:
+Analyze customer subscription data to identify patterns leading to churn.
+
+Key Analysis:
+Churn rate calculation
+Contract type impact on churn
+Tenure based churn behaviour
+
+Business Impact:
+Helps identify high risk customers and improve retention strategy.
+
+Dataset:
+Dataset represents anonymized enterprise customer subscription data.
